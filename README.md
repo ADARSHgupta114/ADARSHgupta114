@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Inventory Management**
 
-- 🌱 I’m currently learning **Tableau ,Excel ,SQL ,Java**
+- 🌱 I’m currently learning **Spring Boot, Tableau ,Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADARSHgupta114](https://github.com/ADARSHgupta114)
 
-- 💬 Ask me about **C++, Python, Machine Learning, Data Structure, Algorithim**
+- 💬 Ask me about **C++, Python, Machine Learning, Data Structure, Algorithim ,SQL ,Java**
 
 - 📫 How to reach me **adarshraj114@gmail.com**
 
